@@ -4,15 +4,20 @@
 ## 📊 Presentation Preview
 
 <p align="center">
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/1.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/2.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/3.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/4.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/5.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/6.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/7.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/8.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/9.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/10.png.png" width="400" />
-  <img src="https://github.com/Anshlibrary/10-Most-Commonly-Used-Subqueries-In-The-Industry/blob/main/10_%20Most_Used_Subquery/11.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/A.jpg" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/B.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/C.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/D.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/E.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/F.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/G.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/H.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/I.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/J.png.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/K.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/L.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/M.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/N.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/O.png" width="400" />
+  <img src="https://github.com/Anshlibrary/Window_Functions_With_12_most_used_Queries/blob/main/12_most_used_Window_Functions_Queries_Images/P.png" width="400" />
 </p>
