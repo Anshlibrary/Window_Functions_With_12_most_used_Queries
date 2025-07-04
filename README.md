@@ -1,4 +1,4 @@
-# Window_Functions_And_12_most_used_Queries
+# Window_Functions_With_12_most_used_Queries
 
 
 ## 📊 Presentation Preview
